@@ -1,1 +1,1 @@
-# react-tailwind-starter-kit
+# next-tailwind-starter-kit
