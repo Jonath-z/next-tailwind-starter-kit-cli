@@ -1,20 +1,18 @@
-# Next.js + tailwindcss starter kit
-
 This is a starter kit of next.js and tailwindcss
 
 ## Versions
 
 - next.js: 13.1.2
 - autoprefixer: ^10.4.13,
-- postcss: "^8.4.21",
-- tailwindcss : "^3.2.4"
+- postcss: ^8.4.21,
+- tailwindcss : ^3.2.4
 
 ## Usage
 
 - Create the app
 
 ```bash
-npx create-next-tailwind-app <app name>
+npx next-tailwind-app <app name>
 ```
 
 - Checkout and install

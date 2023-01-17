@@ -1,6 +1,6 @@
 {
-  "name": "create-next-tailwind-app",
-  "version": "0.1.0",
+  "name": "next-tailwind-app",
+  "version": "0.1.1",
   "bin": "./bin/cli.js",
   "scripts": {
     "dev": "next dev",
