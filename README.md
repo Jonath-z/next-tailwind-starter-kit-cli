@@ -2,7 +2,7 @@
 
 This is a starter kit of next.js and tailwindcss
 
-## Version
+## Versions
 
 - next.js: 13.1.2
 - autoprefixer: ^10.4.13,
