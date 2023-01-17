@@ -17,7 +17,7 @@ This is a starter kit of next.js and tailwindcss
 npx create-next-tailwind-app <app name>
 ```
 
-- Chouckout and install
+- Checkout and install
 
 ```bash
 cd <app name> && npm install
